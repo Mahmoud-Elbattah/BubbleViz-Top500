@@ -1,12 +1,11 @@
 name,count,percent
-Linux,294,58.8
-CentOS,83,16.6
-Cray Linux Environment,48,9.6
+Linux,273,54.6
+CentOS,109,21.8
+Cray Linux Environment,46,9.2
 SUSE Linux Enterprise Server,20,4
-RHEL,17,3.4
 TOSS,10,2
-bullx SCS,9,1.8
-Other,8,1.6
-Ubuntu Linux,4,0.8
+RHEL,20,4
 Scientific Linux,4,0.8
-Bullx Linux,3,0.6
+Bullx Linux,15,3
+Kylin Linux,2,0.4
+Sunway RaiseOS,1,0.2
