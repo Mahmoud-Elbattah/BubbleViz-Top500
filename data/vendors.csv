@@ -1,36 +1,27 @@
 name,count,percent
-HPE,124,24.8
-Lenovo,87,17.4
-Inspur,56,11.2
-Cray Inc.,53,10.6
-Sugon,51,10.2
-IBM,24,4.8
-Huawei,19,3.8
-Dell EMC,18,3.6
-Bull,17,3.4
-Fujitsu,14,2.8
-Penguin Computing,10,2
-NEC,6,1.2
-PEZY Computing,4,0.8
-NUDT,4,0.8
-Exascaler Inc.,4,0.8
+Lenovo,144,27.3
+Inspur,84,15.9
+Sugon,57,10.8
+Cray Inc.,52,9.8
+HPE,47,8.9
+Bull,22,4.2
+IBM,18,3.4
+Fujitsu,17,3.2
+Dell EMC,15,2.8
+Huawei,14,2.6
+Penguin Computing,9,1.7
+NEC,4,0.7
 T-Platforms,3,0.6
-Atipa,3,0.6
-Nvidia,2,0.4
-NRCPC,2,0.4
+Nvidia,3,0.6
+NVIDIA,3,0.6
+NUDT,3,0.6
+Mellanox,3,0.6
+Hitachi,3,0.6
+PEZY Computing,2,0.4
+MEGWARE,2,0.4
 Intel,2,0.4
 IBM-GBS,2,0.4
-Xenon,1,0.2
-Supermicro,1,0.2
-Self-made,1,0.2
-RSC Group,1,0.2
-NTT Comm.,2,0.4
-NSSOL,1,0.2
-Megatel,1,0.2
-MEGWARE,1,0.2
-Hitachi,1,0.2
-ExaScaler,1,0.2
-E4,1,0.2
-Dell,1,0.2
-ClusterVision,1,0.2
-ACTION,2,0.4
+Hammer,2,0.4
+Exascaler Inc.,2,0.4
+ClusterVision,2,0.4
+Other,12,2.3
